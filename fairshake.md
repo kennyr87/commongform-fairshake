@@ -31,6 +31,16 @@ signatures:
     date:
     email:
     address:
+styles:
+  alignment: left
+  heading:
+    italic: true
+  beforeDefinition: false
+  afterDefinition: false
+  reference:
+    italic: true
+  referenceHeading:
+    italic: true
 ---
 
 # Service Contract Agreement
